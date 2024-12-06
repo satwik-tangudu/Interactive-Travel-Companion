@@ -15,8 +15,7 @@ from streamlit_image_select import image_select
 import random
 import numpy as np
 import time
-import matplotlib.pyplot as plt
-from matplotlib.sankey import Sankey
+
 
 
 # Set up page config
