@@ -1,0 +1,13 @@
+streamlit
+pandas
+pydeck
+plotly
+numpy
+streamlit_lottie
+folium
+polyline
+geopy
+streamlit_pannellum 
+streamlit_image_select
+streamlit-aggrid
+streamlit_folium
